@@ -4,7 +4,6 @@ title: "Urs Hofer"
 ---
 
 I do some coding: Websites, Installations, Books. Sometimes I teach.
-There will be more on this site some day.
 
 
 Contact
