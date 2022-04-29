@@ -13,12 +13,15 @@ Urs Hofer
 Flüelastrasse 12  
 8048 Zürich  
 [E-Mail](mailto:cut@automatic-cinema.com)  
-[www.github.com/urshofer](//www.github.com/urshofer)  
-[www.automatic-cinema.com](//www.automatic-cinema.com)  
-[www.rokfor.ch](//www.rokfor.ch)  
+[Old Site](//legacy.urshofer.ch)
+[Source](//github.com/urshofer/urshofer.ch)
+[Github](//www.github.com/urshofer)
+[Automatic Cinema](//www.automatic-cinema.com)  
+[Rokfor](//www.rokfor.ch)
 
-Some References
----------------
+
+Some Web References
+-------------------
 
 [www.gta-edition.ch](//www.gta-edition.ch)  
 [www.intercom-mono.com](//www.intercom-mono.com)  
@@ -33,7 +36,7 @@ Some References
 [www.sitterwerk.ch](//www.sitterwerk.ch)  
 [www.kunstgiesserei.ch](//www.kunstgiesserei.ch)  
 [www.kesselhaus-josephsohn.ch](//www.kesselhaus-josephsohn.ch)  
-[www.essais-agites.ch](//www.essais-agites.ch)  
+[www.essaisagites.ch](//www.essaisagites.ch)  
 [www.cgdy.com](//www.cgdy.com)  
 [www.mimsuisse.ch](//www.mimsuisse.ch)  
 [www.studiogretzinger.de](//www.studiogretzinger.de)  
