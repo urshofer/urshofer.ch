@@ -13,9 +13,9 @@ Urs Hofer
 Flüelastrasse 12  
 8048 Zürich  
 [E-Mail](mailto:cut@automatic-cinema.com)  
-[Old Site](//legacy.urshofer.ch)
-[Source](//github.com/urshofer/urshofer.ch)
-[Github](//www.github.com/urshofer)
+[Old Site](//legacy.urshofer.ch)  
+[Source](//github.com/urshofer/urshofer.ch)  
+[Github](//www.github.com/urshofer)  
 [Automatic Cinema](//www.automatic-cinema.com)  
 [Rokfor](//www.rokfor.ch)
 
