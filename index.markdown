@@ -10,7 +10,7 @@ Contact
 -------
 
 Urs Hofer  
-Flüelastrasse 12  
+Hermetschloostrasse 77
 8048 Zürich  
 [E-Mail](mailto:cut@automatic-cinema.com)  
 [Old Site](//legacy.urshofer.ch)  
@@ -23,6 +23,7 @@ Flüelastrasse 12
 Some Web References
 -------------------
 
+[www.wiesbaden-biennale.eu](//wiesbaden-biennale.eu)
 [www.gta-edition.ch](//www.gta-edition.ch)  
 [www.intercom-mono.com](//www.intercom-mono.com)  
 [www.kulturstiftung.ch](//www.kulturstiftung.ch)  
