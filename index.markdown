@@ -10,8 +10,9 @@ Contact
 -------
 
 Urs Hofer  
-Hermetschloostrasse 77
+Hermetschloostrasse 77  
 8048 Zürich  
+  
 [E-Mail](mailto:cut@automatic-cinema.com)  
 [Old Site](//legacy.urshofer.ch)  
 [Source](//github.com/urshofer/urshofer.ch)  
@@ -23,7 +24,7 @@ Hermetschloostrasse 77
 Some Web References
 -------------------
 
-[www.wiesbaden-biennale.eu](//wiesbaden-biennale.eu)
+[www.wiesbaden-biennale.eu](//wiesbaden-biennale.eu)  
 [www.gta-edition.ch](//www.gta-edition.ch)  
 [www.intercom-mono.com](//www.intercom-mono.com)  
 [www.kulturstiftung.ch](//www.kulturstiftung.ch)  
