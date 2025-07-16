@@ -24,9 +24,9 @@ Hermetschloostrasse 77
 Some Web References
 -------------------
 
-[www.laviniaroma.com](//www.laviniaroma.com)
-[www.kunsthallesanktgallen.ch](//www.kunsthallesanktgallen.ch)
-[www.wiesbaden-biennale.eu](//2022.wiesbaden-biennale.eu)
+[www.laviniaroma.com](//www.laviniaroma.com)  
+[www.kunsthallesanktgallen.ch](//www.kunsthallesanktgallen.ch)  
+[www.wiesbaden-biennale.eu](//2022.wiesbaden-biennale.eu)  
 [www.gta-edition.ch](//www.gta-edition.ch)  
 [www.intercom-mono.com](//www.intercom-mono.com)  
 [www.kulturstiftung.ch](//www.kulturstiftung.ch)  
